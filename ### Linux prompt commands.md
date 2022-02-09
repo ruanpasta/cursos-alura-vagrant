@@ -16,4 +16,4 @@
 
 - cat <arquivo> > <diretorio do arquivo>
 <!-- Altera o arquivo de destino inteiro -->
-<!-- EX: cat file.txt >> /pasta/allFiles.txt -->
+<!-- EX: cat file.txt > /pasta/allFiles.txt -->
